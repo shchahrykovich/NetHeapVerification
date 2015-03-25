@@ -1,0 +1,1 @@
+.\App\bin\Release\App.exe
