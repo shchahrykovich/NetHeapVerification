@@ -1,0 +1,5 @@
+set COMPLUS_StressLog=1
+set COMPLUS_LogFacility=4
+set COMPLUS_StressLogSize=80000
+set COMPLUS_TotalStressLogSize=8000000
+set COMPLUS_InteropLogArguments=1
